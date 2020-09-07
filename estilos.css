@@ -1,4 +1,4 @@
-/**asasas
+/*asasas
 asasasa
 asasas
 asasas
@@ -17,7 +17,7 @@ p{
 }
 
 h1{
-    color: blue;
+    color: gray;
 
 }
 
@@ -29,5 +29,33 @@ h6{
 }
 
 body{
-    background-color: yellowgreen;
+    background-color: lightgrey;
+}
+
+.top{
+    padding:50px;
+    text-align: center;
+}
+
+.bot{
+    height: 20px;
+    background-color: black;
+    clear: both;
+    text-align: center;
+    padding:15px
+}
+
+.cont{
+    width: 1050px;
+    margin:auto;
+}
+
+.caixa-links{
+    width: 200px;
+    min-height: 170px;
+    padding: 30px;
+    background-color: gray;
+    float: left;
+    border: 1px solid black;
+
 }
