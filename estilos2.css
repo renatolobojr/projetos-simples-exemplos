@@ -6,8 +6,8 @@ header{
 
 }
 
-#inicial-logo{
-    background-color: black;
+#inicial-logo option[value=uba]{
+    //background-color: black;
     height: 100px;
     background-image: url("Cataguases_MG.jpg");
     background-size: 1400px;
