@@ -6,27 +6,13 @@ header{
 
 }
 
-#inicial-logo option[value=Uba]{
-    //background-color: black;
+#inicial-logo{
     height: 100px;
     background-image: url("Cataguases_MG.jpg");
     background-size: 1400px;
     background-position-y: -450px;
     padding-top: 200px;
-
 }
-
-#inicial-logo option[value=Cataguases]{
-    //background-color: black;
-    height: 100px;
-    background-image: url("Ponte_Metálica_-_Cataguases_MG.jpg");
-    background-size: 1400px;
-    background-position-y: -450px;
-    padding-top: 200px;
-
-}
-
-
 
 #inicial-barra{
     background-color: white;
