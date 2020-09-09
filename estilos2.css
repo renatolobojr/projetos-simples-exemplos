@@ -6,7 +6,7 @@ header{
 
 }
 
-#inicial-logo select option[value=Uba]{
+#inicial-logo option[value=Uba]{
     //background-color: black;
     height: 100px;
     background-image: url("Cataguases_MG.jpg");
@@ -16,7 +16,7 @@ header{
 
 }
 
-#inicial-logo select option[value=Cataguases]{
+#inicial-logo option[value=Cataguases]{
     //background-color: black;
     height: 100px;
     background-image: url("Ponte_Metálica_-_Cataguases_MG.jpg");
