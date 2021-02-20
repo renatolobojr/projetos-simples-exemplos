@@ -26,8 +26,16 @@ header{
 
 }
 
+#barra{
+    width: 400px;
+}
+
 #localizacao{
     height: 20%;}
+
+#local {
+    width:100px;
+}
 
 footer{
     color:white;
