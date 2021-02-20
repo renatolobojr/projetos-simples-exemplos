@@ -7,13 +7,11 @@ header{
 }
 
 #inicial-logo{
-    background-color: black;
     height: 100px;
     background-image: url("Cataguases_MG.jpg");
     background-size: 1400px;
     background-position-y: -450px;
     padding-top: 200px;
-
 }
 
 #inicial-barra{
