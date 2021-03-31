@@ -1,6 +1,5 @@
 
-Exemplo de um site simples, ainda está incompleto, mas no final, será um motor de busca de estabelecimentos locais, tipo uma rede social para empresas. cada página será uma espécie de microsite.
-
+Exemplo de um site simples, ainda está incompleto
 
 link do site: https://renatolobojr.github.io/site-simples/
 
