@@ -1,0 +1,22 @@
+nav, aside, main, section {
+    margin: auto;
+    border: 2px dotted blue;
+    padding: 10px;
+    margin: 15px;
+}
+
+aside {
+    float: left;
+    width: 340px;
+    height: 580PX;
+}
+
+main {
+    float: left;
+    width: 950PX;
+    height: 580px;
+}
+
+section {
+    border: 1px solid red;
+}

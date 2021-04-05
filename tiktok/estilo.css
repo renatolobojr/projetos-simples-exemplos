@@ -1,0 +1,28 @@
+#mostrador{                 /* usa # (tralha) quando é id*/
+    margin: auto;           /*margin: auto deve vir*/
+    margin-top: 40px;       /*primeiro porque comandos*/
+    margin-bottom: 40px;    /*consecutivos se sobrescrevem*/
+    width:282px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+.espaco{                    /* usa . (ponto) quando é classe*/
+    width:60px;
+    height: 70px;
+    border: 2px solid #000;
+    float: left;
+    padding: 10px;
+    padding-left:20px;
+}
+.tabuleiro{                 /* usa . (ponto) quando é classe*/
+    margin: auto;
+    width: 282px;
+}
+#resultado{
+    width:282px;
+    height: 60px;
+    background-color:gray;
+}
