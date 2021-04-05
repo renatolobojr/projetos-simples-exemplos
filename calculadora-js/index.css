@@ -1,0 +1,42 @@
+body{
+    align-items: center;
+}
+
+/* configurar o css diretamente na tag */
+small{                      
+    color: red;;
+}
+
+/* configurar o css diretamente nas classes */
+.visor{
+    height: 40px;
+    width: 180px;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.digito{
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    background-color:rgb(196, 196, 196);
+
+}
+
+.zero{
+    width: 95px;
+}
+
+.op{
+    background-color:rgb(105, 104, 104);
+    color: white
+}
+
+.form{
+    margin: 20px;
+    background-color: rgb(164, 165, 167);
+    padding: 15px;
+    width: 213px;
+}
+
